@@ -1,0 +1,23 @@
+.header--icon {
+    width: 24px;
+    height: 24px;
+}
+
+header {
+    width: 100vw;
+    height: 55px;
+    background-color: #F55A5A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header > h3 {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    margin: .5rem;
+}
+
